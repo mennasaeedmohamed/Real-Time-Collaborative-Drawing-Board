@@ -1,0 +1,18 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link href="~/css/site.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container">
+        @RenderBody()  <!-- This will render the content from the view -->
+    </div>
+
+    <!-- Add this line to render any scripts section -->
+    @RenderSection("Scripts", required: false)
+</body>
+</html>
+

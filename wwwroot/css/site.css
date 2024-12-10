@@ -1,0 +1,252 @@
+/* Reset some default margins and paddings for better consistency across browsers */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Set the html and body to fill the full height of the viewport */
+html, body {
+    height: 100%; /* Full height of the viewport */
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background-color: #f4f4f9; /* Light background color */
+    display: flex; /* Use flexbox to center content */
+    justify-content: center; /* Horizontally center content */
+    align-items: center; /* Vertically center content */
+}
+
+/* Full page container ensuring content takes the full height */
+.full-page-content {
+    width: 100%;
+    max-width: 1200px; /* Set a max width to keep content from stretching too wide */
+    height: 100%; /* Full height of the viewport */
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start; /* Align content at the top */
+    padding: 20px; /* Optional padding for spacing */
+    overflow: auto; /* Ensure content is scrollable if it exceeds the viewport */
+}
+
+/* Style for headings */
+h1, h2, h3, h4 {
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+/* Hero section for homepage */
+/* Hero Image for homepage */
+.hero-image img {
+    width: 65%; /* Set the image width to 80% of its container */
+    max-width: 450px; /* Set a maximum width of 600px to make it smaller */
+    height: auto; /* Keep the aspect ratio */
+    border-radius: 10px; /* Optional: Adds rounded corners to the image */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: Adds shadow for effect */
+    margin: 0 auto; /* Centers the image horizontally */
+    display: block; /* Ensures the image behaves like a block-level element */
+}
+
+/* Style for the start button on the homepage */
+.start-button {
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-top: 20px;
+    transition: background-color 0.3s ease;
+}
+
+    .start-button:hover {
+        background-color: #0056b3;
+    }
+
+/* Features section on the homepage */
+.features {
+    margin-top: 40px;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.05);
+}
+
+    .features ul {
+        list-style-type: none;
+        padding-left: 20px;
+    }
+
+    .features li {
+        margin: 10px 0;
+        color: #555;
+    }
+
+/* Styling for text inputs and buttons */
+input[type="text"], button {
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    margin-top: 10px;
+    border: 1px solid #ddd;
+    width: 100%;
+}
+
+button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+    button:hover {
+        background-color: #218838;
+    }
+
+/* Styling for canvas elements */
+canvas {
+    border: 1px solid #ccc;
+    background-color: white;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Chat box styling */
+#chatBox {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+#messages {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #f8f9fa;
+    border-radius: 5px;
+    max-height: 200px;
+    overflow-y: auto;
+}
+
+#chatInput {
+    width: calc(100% - 80px);
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-right: 10px;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+    .start-button {
+        width: 100%;
+        padding: 12px 0;
+    }
+
+    .features ul {
+        padding-left: 10px;
+    }
+}
+
+/* Styling for buttons that clear or save the canvas */
+button#clearCanvas, button#saveCanvas {
+    background-color: #dc3545;
+    color: white;
+    margin-top: 10px;
+}
+
+    button#clearCanvas:hover, button#saveCanvas:hover {
+        background-color: #c82333;
+    }
+
+/* Header Section inside Drawing Container */
+.drawing-container .header {
+    background-color: #4CAF50; /* Green background for header */
+    color: white; /* White text color */
+    text-align: center; /* Center the text */
+    padding: 20px; /* Add padding around the header */
+    border-radius: 8px; /* Optional: adds rounded corners to the header */
+    margin-bottom: 20px; /* Space below the header */
+}
+
+    .drawing-container .header h1 {
+        margin: 0; /* Remove margin around the title */
+        font-size: 32px; /* Large font size for the title */
+    }
+
+    .drawing-container .header .home-link {
+        color: white; /* White color for the link */
+        text-decoration: none; /* Remove underline from the link */
+        font-size: 18px; /* Font size for the "Back to Home" link */
+        display: inline-block; /* Makes the link behave like a block element */
+        margin-top: 10px; /* Space above the link */
+    }
+
+        .drawing-container .header .home-link:hover {
+            text-decoration: underline; /* Add underline on hover */
+        }
+
+/* Styles for content section in drawing page */
+.drawing-container .content {
+    display: flex; /* Arrange the content in rows */
+    justify-content: space-between; /* Create space between the canvas and chat sections */
+    padding: 20px;
+}
+
+/* Canvas section styling */
+.drawing-container .canvas-section {
+    flex: 1; /* Take available space */
+    margin-right: 20px; /* Space to the right of the canvas */
+}
+
+.drawing-container canvas {
+    width: 100%; /* Ensure the canvas is responsive */
+    height: 400px; /* Set fixed height for the canvas */
+    border-radius: 5px;
+}
+
+/* Controls section for buttons */
+.drawing-container .controls {
+    margin-top: 10px;
+    text-align: center;
+}
+
+/* Chat section styling */
+.drawing-container .chat-section {
+    flex: 1; /* Take available space */
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+    .drawing-container .chat-section h2 {
+        margin-bottom: 10px;
+        font-size: 24px;
+    }
+
+.drawing-container .messages {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #f8f9fa;
+    border-radius: 5px;
+    max-height: 200px;
+    overflow-y: auto;
+}
+
+.drawing-container .chat-section input,
+.drawing-container .chat-section button {
+    width: 100%;
+    margin-top: 10px;
+}
+
+/* Footer section */
+.drawing-container .footer {
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+    background-color: #f4f4f9;
+}

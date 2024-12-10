@@ -1,0 +1,76 @@
+C:\Users\menna.saed\Downloads\signalR task\obj\Debug\net8.0\signalR task.csproj.AssemblyReference.cache
+C:\Users\menna.saed\Downloads\signalR task\obj\Debug\net8.0\signalR task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\menna.saed\Downloads\signalR task\obj\Debug\net8.0\signalR task.AssemblyInfoInputs.cache
+C:\Users\menna.saed\Downloads\signalR task\obj\Debug\net8.0\signalR task.AssemblyInfo.cs
+C:\Users\menna.saed\Downloads\signalR task\obj\Debug\net8.0\signalR task.csproj.CoreCompileInputs.cache
+C:\Users\menna.saed\Downloads\signalR task\obj\Debug\net8.0\signalR task.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\menna.saed\Downloads\signalR task\obj\Debug\net8.0\signalR task.RazorAssemblyInfo.cache
+C:\Users\menna.saed\Downloads\signalR task\obj\Debug\net8.0\signalR task.RazorAssemblyInfo.cs
+C:\Users\menna.saed\Downloads\signalR task\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\menna.saed\Downloads\signalR task\bin\Debug\net8.0\appsettings.json
+C:\Users\menna.saed\Downloads\signalR task\bin\Debug\net8.0\signalR task.staticwebassets.runtime.json
+C:\Users\menna.saed\Downloads\signalR task\bin\Debug\net8.0\signalR task.staticwebassets.endpoints.json
+C:\Users\menna.saed\Downloads\signalR task\bin\Debug\net8.0\signalR task.exe
+C:\Users\menna.saed\Downloads\signalR task\bin\Debug\net8.0\signalR task.deps.json
+C:\Users\menna.saed\Downloads\signalR task\bin\Debug\net8.0\signalR task.runtimeconfig.json
+C:\Users\menna.saed\Downloads\signalR task\bin\Debug\net8.0\signalR task.dll
+C:\Users\menna.saed\Downloads\signalR task\bin\Debug\net8.0\signalR task.pdb
+C:\Users\menna.saed\Downloads\signalR task\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\menna.saed\Downloads\signalR task\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\menna.saed\Downloads\signalR task\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\menna.saed\Downloads\signalR task\obj\Debug\net8.0\scopedcss\bundle\signalR task.styles.css
+C:\Users\menna.saed\Downloads\signalR task\obj\Debug\net8.0\scopedcss\projectbundle\signalR task.bundle.scp.css
+C:\Users\menna.saed\Downloads\signalR task\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\menna.saed\Downloads\signalR task\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\menna.saed\Downloads\signalR task\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\menna.saed\Downloads\signalR task\obj\Debug\net8.0\staticwebassets\msbuild.signalR task.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\menna.saed\Downloads\signalR task\obj\Debug\net8.0\staticwebassets\msbuild.signalR task.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\menna.saed\Downloads\signalR task\obj\Debug\net8.0\staticwebassets\msbuild.build.signalR task.props
+C:\Users\menna.saed\Downloads\signalR task\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.signalR task.props
+C:\Users\menna.saed\Downloads\signalR task\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.signalR task.props
+C:\Users\menna.saed\Downloads\signalR task\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\menna.saed\Downloads\signalR task\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\menna.saed\Downloads\signalR task\obj\Debug\net8.0\signalR .91965D20.Up2Date
+C:\Users\menna.saed\Downloads\signalR task\obj\Debug\net8.0\signalR task.dll
+C:\Users\menna.saed\Downloads\signalR task\obj\Debug\net8.0\refint\signalR task.dll
+C:\Users\menna.saed\Downloads\signalR task\obj\Debug\net8.0\signalR task.pdb
+C:\Users\menna.saed\Downloads\signalR task\obj\Debug\net8.0\signalR task.genruntimeconfig.cache
+C:\Users\menna.saed\Downloads\signalR task\obj\Debug\net8.0\ref\signalR task.dll
+C:\Users\menna.saed\Desktop\signalR task\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\menna.saed\Desktop\signalR task\bin\Debug\net8.0\appsettings.json
+C:\Users\menna.saed\Desktop\signalR task\bin\Debug\net8.0\signalR task.staticwebassets.endpoints.json
+C:\Users\menna.saed\Desktop\signalR task\bin\Debug\net8.0\signalR task.staticwebassets.runtime.json
+C:\Users\menna.saed\Desktop\signalR task\bin\Debug\net8.0\signalR task.exe
+C:\Users\menna.saed\Desktop\signalR task\bin\Debug\net8.0\signalR task.deps.json
+C:\Users\menna.saed\Desktop\signalR task\bin\Debug\net8.0\signalR task.runtimeconfig.json
+C:\Users\menna.saed\Desktop\signalR task\bin\Debug\net8.0\signalR task.dll
+C:\Users\menna.saed\Desktop\signalR task\bin\Debug\net8.0\signalR task.pdb
+C:\Users\menna.saed\Desktop\signalR task\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\menna.saed\Desktop\signalR task\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\menna.saed\Desktop\signalR task\obj\Debug\net8.0\signalR task.csproj.AssemblyReference.cache
+C:\Users\menna.saed\Desktop\signalR task\obj\Debug\net8.0\signalR task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\menna.saed\Desktop\signalR task\obj\Debug\net8.0\signalR task.AssemblyInfoInputs.cache
+C:\Users\menna.saed\Desktop\signalR task\obj\Debug\net8.0\signalR task.AssemblyInfo.cs
+C:\Users\menna.saed\Desktop\signalR task\obj\Debug\net8.0\signalR task.csproj.CoreCompileInputs.cache
+C:\Users\menna.saed\Desktop\signalR task\obj\Debug\net8.0\signalR task.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\menna.saed\Desktop\signalR task\obj\Debug\net8.0\signalR task.RazorAssemblyInfo.cache
+C:\Users\menna.saed\Desktop\signalR task\obj\Debug\net8.0\signalR task.RazorAssemblyInfo.cs
+C:\Users\menna.saed\Desktop\signalR task\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\menna.saed\Desktop\signalR task\obj\Debug\net8.0\scopedcss\bundle\signalR task.styles.css
+C:\Users\menna.saed\Desktop\signalR task\obj\Debug\net8.0\scopedcss\projectbundle\signalR task.bundle.scp.css
+C:\Users\menna.saed\Desktop\signalR task\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\menna.saed\Desktop\signalR task\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\menna.saed\Desktop\signalR task\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\menna.saed\Desktop\signalR task\obj\Debug\net8.0\staticwebassets\msbuild.signalR task.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\menna.saed\Desktop\signalR task\obj\Debug\net8.0\staticwebassets\msbuild.signalR task.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\menna.saed\Desktop\signalR task\obj\Debug\net8.0\staticwebassets\msbuild.build.signalR task.props
+C:\Users\menna.saed\Desktop\signalR task\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.signalR task.props
+C:\Users\menna.saed\Desktop\signalR task\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.signalR task.props
+C:\Users\menna.saed\Desktop\signalR task\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\menna.saed\Desktop\signalR task\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\menna.saed\Desktop\signalR task\obj\Debug\net8.0\signalR .91965D20.Up2Date
+C:\Users\menna.saed\Desktop\signalR task\obj\Debug\net8.0\signalR task.dll
+C:\Users\menna.saed\Desktop\signalR task\obj\Debug\net8.0\refint\signalR task.dll
+C:\Users\menna.saed\Desktop\signalR task\obj\Debug\net8.0\signalR task.pdb
+C:\Users\menna.saed\Desktop\signalR task\obj\Debug\net8.0\signalR task.genruntimeconfig.cache
+C:\Users\menna.saed\Desktop\signalR task\obj\Debug\net8.0\ref\signalR task.dll

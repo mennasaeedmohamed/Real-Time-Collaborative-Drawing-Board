@@ -1,0 +1,32 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="drawing-container">
+    <div class="header">
+        <h1>Drawing Room</h1>
+        <a href="/" class="home-link">Back to Home</a>
+    </div>
+
+    <div class="content">
+        <div class="canvas-section">
+            <canvas id="drawingCanvas" width="800" height="600" style="border: 1px solid black;"></canvas>
+            <div class="controls">
+                <button id="saveCanvas">Save</button>
+                <button id="clearCanvas">Clear</button>
+            </div>
+        </div>
+
+        <div class="chat-section">
+            <h2>Chat with Collaborators</h2>
+            <div id="messages" class="messages"></div>
+            <input id="chatInput" type="text" placeholder="Type your message...">
+            <button id="sendChat">Send</button>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/@@microsoft/signalr/dist/browser/signalr.min.js"></script>
+    <script src="/js/drawing.js"></script>
+}
